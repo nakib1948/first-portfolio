@@ -8,7 +8,7 @@
 .first-section-background{
 
  height: 808px;
- width: 1600px;
+ width: 100%;
  background-image: url('./images/banner/banner3.png');
  text-align: right;
 }
@@ -16,7 +16,7 @@
     width: 525px;
     float:right;
     color: white;
-    margin-right: 230px;
+    margin-right: 150px;
     margin-top: 216px;
 }
 .first-section-div h1{
@@ -36,7 +36,7 @@
     position: absolute;
     width: 160px;
     height: 64px;
-    left: 1210px;
+    left: 1182px;
     top: 530px;
     color: #e8143b;
     font-weight: 600;
